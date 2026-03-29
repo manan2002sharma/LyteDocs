@@ -19,8 +19,8 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://YOUR_GITHUB_USERNAME.github.io',
-  baseUrl: '/YOUR_REPO_NAME/',
+  url: 'https://manan2002sharma.github.io',
+  baseUrl: '/LyteDocs/',
 
   organizationName: 'manan2002sharma',
   projectName: 'LyteDocs',
