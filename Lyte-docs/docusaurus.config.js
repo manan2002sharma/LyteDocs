@@ -20,7 +20,7 @@ const config = {
   },
 
   url: 'https://manan2002sharma.github.io',
-  baseUrl: '/LyteDocs/',
+  baseUrl: process.env.NODE_ENV === 'development' ? '/' : '/LyteDocs/',
 
   organizationName: 'manan2002sharma',
   projectName: 'LyteDocs',
@@ -81,15 +81,9 @@ const config = {
           alt: 'Lyte Logo',
           src: 'img/Lyte_light_logo.png',
           srcDark: 'img/lyte_dark_logo.png',
+          href: '/docs/intro',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
-        ],
+        items: [],
       },
       footer: {
         style: 'dark',
