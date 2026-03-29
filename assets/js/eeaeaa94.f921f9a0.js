@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklyte_docs=globalThis.webpackChunklyte_docs||[]).push([[2262],{7(e){e.exports=JSON.parse('{"metadata":{"permalink":"/LyteDocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

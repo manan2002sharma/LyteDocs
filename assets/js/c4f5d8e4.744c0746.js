@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklyte_docs=globalThis.webpackChunklyte_docs||[]).push([[2634],{192(s,t,o){o.r(t),o.d(t,{default:()=>l});var c=o(6347),e=o(4848);function l(){return(0,e.jsx)(c.rd,{to:"/docs/intro"})}}}]);

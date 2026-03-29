@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklyte_docs=globalThis.webpackChunklyte_docs||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/LyteDocs/blog","blogTitle":"Blog","authorsListPath":"/LyteDocs/blog/authors"}')}}]);
